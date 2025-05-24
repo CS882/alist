@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for alist-yzcfxw on 2025-05-24T11:31:18Z
+# fly.toml app configuration file generated for alist-bfri3g on 2025-05-24T16:34:37Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'alist-yzcfxw'
-primary_region = 'hkg'
+app = 'alist-bfri3g'
+primary_region = 'sjc'
 
 [build]
 
